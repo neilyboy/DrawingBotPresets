@@ -1,0 +1,25 @@
+{
+  "presetType": "pfm_settings",
+  "version": "1.1",
+  "presetSubType": "Voronoi Shapes",
+  "presetName": "1 Circles",
+  "userCreated": true,
+  "data": {
+    "settingList": {
+      "Plotting Resolution": "1.0",
+      "Ignore White": "false",
+      "Density Power": "3",
+      "Min Rotation": "0.0",
+      "Voronoi Accuracy": "25",
+      "Shape Type": "Circle",
+      "Luminance Power": "1",
+      "Fill Size": "100.0",
+      "Point Density": "100",
+      "Point Limit": "0",
+      "Random Seed": "0",
+      "Align Rotation": "true",
+      "Max Rotation": "360.0",
+      "Voronoi Iterations": "100"
+    }
+  }
+}
